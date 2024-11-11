@@ -1,0 +1,8 @@
+{
+    "jsonData": [
+        {"id": 1, "name": "Shoes", "category": "Fashion", "price": 10000, "available": true},
+        {"id": 2, "name": "phone", "category": "Electronics", "price": 30000, "available": false},
+        {"id": 3, "name": "jacket", "category": "Fashion", "price": 2000, "available": true},
+        {"id": 4, "name": "Charger", "category": "Electronics", "price": 800, "available": true}
+    ]
+}
